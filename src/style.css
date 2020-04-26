@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+h2 {
+  font-weight: 200;
+}
+h3 {
+  color: #ff7900;
+}
+hr {
+  width: 80%;
+}
+p {
+  text-indent: 1.5em;
+}
+.nav-link {
+  color: grey;
+}
+.nav-link:hover {
+  color: #ff7900;
+}
+.nav-link.active {
+  color: #ff7900;
+}
