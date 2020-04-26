@@ -26,3 +26,8 @@ p {
 .nav-link.active {
   color: #ff7900;
 }
+.github-link {
+  font-size: 10px;
+  display: block;
+  text-align: center;
+}
