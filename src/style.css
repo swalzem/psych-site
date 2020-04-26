@@ -28,6 +28,5 @@ p {
 }
 .github-link {
   font-size: 10px;
-  display: block;
-  text-align: center;
+  bottom: 0;
 }
